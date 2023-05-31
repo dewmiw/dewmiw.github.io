@@ -621,4 +621,7 @@ h3 {
     margin-left: 10px;
     width: 300px;
   }
+  .hr1{
+    display:none;
+  }
 }
